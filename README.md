@@ -1,5 +1,6 @@
 - 👋 Hi, I’m manu
-- 👀 I’m interested in Android development,Robotics,c,AI
+- WOULD LIKE TO BE A PART ANY PROJECTS RELATED TO ROBOTICS.. 
+- 👀 EXPLORING EVERYTHINGG.....
 - 🌱 I’m currently learning Python
 - 💞️ lets explore the magical world of tecnology together..
 - 📫 manurkwrk@gmail.com
