@@ -1,7 +1,6 @@
 - 👋 Hi, I’m manu
-- WOULD LIKE TO BE A PART ANY PROJECTS RELATED TO ROBOTICS.. 
-- 👀 EXPLORING EVERYTHINGG.....
-- 🌱 I’m currently learning Python
+- 👀 EXPLORING the beautiful world of error free codes...
+- 🌱 I’m currently a Machine Learning Intern ,DataScience Engineer
 - 💞️ lets explore the magical world of tecnology together..
 - 📫 manurkwrk@gmail.com
 
