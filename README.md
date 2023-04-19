@@ -1,6 +1,6 @@
 - 👋 Hi, I’m manu
 - 👀 EXPLORING the beautiful world of error free codes...
-- 🌱 DataScience Intern Engineer
+- 🌱 DataScience Intern, Electronics and Communication Engineer
 - 💞️ lets explore the magical world of tecnology together..
 - 📫 manurkwrk@gmail.com
 
